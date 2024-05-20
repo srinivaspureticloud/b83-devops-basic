@@ -4,7 +4,7 @@
   <title>Sample Test Page</title>
   <style>
     body {
-      background-color: yellow;
+      background-color: blue;
       background-image: url('tdp.jpg');
     }
   </style>
