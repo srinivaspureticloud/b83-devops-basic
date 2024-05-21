@@ -8,6 +8,10 @@
       background-image: url('tdp.jpg');
       
     }
+h1 {
+    padding-top: 180px;
+    padding-left: 400px;
+}
   </style>
 </head>
 <body>
