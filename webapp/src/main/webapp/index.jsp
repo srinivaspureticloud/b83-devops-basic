@@ -4,7 +4,7 @@
   <title>Sample Test Page</title>
   <style>
     body {
-      background-color: green;
+      background-color: blue;
       background-image: url('tdp.jpg');
       
     }
@@ -15,6 +15,6 @@ h1 {
   </style>
 </head>
 <body>
-  <h1>Congratulations AP CM - Chandra Babu Naidu!!</h1>
+  <h1>Congratulations AP CM - Chandra Babu Naidu!!!</h1>
 </body>
 </html>
